@@ -3,14 +3,14 @@
 1. Idea is going to **disrupt** market
 2. Need an upfront **investment**
 
-## <u>SOURCES OF FUNDING</u>
+## SOURCES OF FUNDING
 
 + Family and Friends
 + Bootstrapping
 + Government Department
 + Crowd Funding
 + Angel Investors
-+ Venture Capitalist(VCs)
++ Venture Capitalist(**VCs**)
 
 ## WHAT DO INVESTORS LOOK FOR ?
 
@@ -21,9 +21,9 @@
 
 # Team
 
-+ Work experience of the team is looked at.
-+ Core members need to have skills to complement each other.
-+ Coherent team environment is expected. 
++ **Work experience** of the team is looked at.
++ Core members need to have **skills** to complement each other.
++ Coherent **team environment** is expected. 
 
 # Opportunity
 
@@ -36,6 +36,6 @@
 
 # Business Model
 
-+ Who are your customers ? What do they need ?
-+ Value proposition - what is your customer getting ?
-+ Why should the customer prefer you ?
++ **Who** are your customers ? What do they need ?
++ Value proposition - **what** is your customer getting ?
++ **Why** should the customer prefer you ?
