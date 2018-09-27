@@ -3,7 +3,7 @@
 1. Idea is going to **disrupt** market
 2. Need an upfront **investment**
 
-## SOURCES OF FUNDING
+## <u>SOURCES OF FUNDING</u>
 
 + Family and Friends
 + Bootstrapping
